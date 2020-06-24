@@ -1,0 +1,89 @@
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :42 - What is class? 
+2020-06-15 12:12:13 INFO  bridgepattern.QuestionFormat :11 - %n---------------------------------------------------------------------------------
+2020-06-15 12:12:13 DEBUG bridgepattern.QuestionManager :28 - Question Paper: Java Programming Language
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :46 - What is class? 
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :46 - What is interface? 
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :46 - What is abstraction? 
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :46 - How multiple polymorphism is achieved in java? 
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :46 - How many types of exception  handling are there in java? 
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :46 - Define the keyword final for  variable, method, and class in java? 
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :46 - What is abstract class? 
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :46 - What is multi-threading? 
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :46 - What is inheritance? 
+2020-06-15 12:12:13 DEBUG bridgepattern.JavaQuestions :46 - How many types of inheritance are there in java?
+2020-06-15 12:12:13 INFO  bridgepattern.QuestionFormat :13 - %n---------------------------------------------------------------------------------
+2020-06-15 12:12:13 INFO  bridgepattern.QuestionFormat :14 - *******Bridge Pattern*******
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :42 - What is class? 
+2020-06-15 12:12:38 INFO  bridgepattern.QuestionFormat :11 - %n---------------------------------------------------------------------------------
+2020-06-15 12:12:38 DEBUG bridgepattern.QuestionManager :28 - Question Paper: Java Programming Language
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :46 - What is class? 
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :46 - What is interface? 
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :46 - What is abstraction? 
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :46 - How multiple polymorphism is achieved in java? 
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :46 - How many types of exception  handling are there in java? 
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :46 - Define the keyword final for  variable, method, and class in java? 
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :46 - What is abstract class? 
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :46 - What is multi-threading? 
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :46 - What is inheritance? 
+2020-06-15 12:12:38 DEBUG bridgepattern.JavaQuestions :46 - How many types of inheritance are there in java?
+2020-06-15 12:12:38 INFO  bridgepattern.QuestionFormat :13 - %n---------------------------------------------------------------------------------
+2020-06-15 12:12:38 INFO  bridgepattern.QuestionFormat :14 - *******Bridge Pattern*******
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :42 - What is class? 
+2020-06-15 12:12:48 INFO  bridgepattern.QuestionFormat :11 - %n---------------------------------------------------------------------------------
+2020-06-15 12:12:48 DEBUG bridgepattern.QuestionManager :28 - Question Paper: Java Programming Language
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is class? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is interface? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is abstraction? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - How multiple polymorphism is achieved in java? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - How many types of exception  handling are there in java? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - Define the keyword final for  variable, method, and class in java? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is abstract class? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is multi-threading? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is inheritance? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - How many types of inheritance are there in java?
+2020-06-15 12:12:48 INFO  bridgepattern.QuestionFormat :13 - %n---------------------------------------------------------------------------------
+2020-06-15 12:12:48 INFO  bridgepattern.QuestionFormat :14 - *******Bridge Pattern*******
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :42 - What is class? 
+2020-06-15 12:12:48 INFO  bridgepattern.QuestionFormat :11 - %n---------------------------------------------------------------------------------
+2020-06-15 12:12:48 DEBUG bridgepattern.QuestionManager :28 - Question Paper: Java Programming Language
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is class? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is interface? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is abstraction? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - How multiple polymorphism is achieved in java? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - How many types of exception  handling are there in java? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - Define the keyword final for  variable, method, and class in java? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is abstract class? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is multi-threading? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - What is inheritance? 
+2020-06-15 12:12:48 DEBUG bridgepattern.JavaQuestions :46 - How many types of inheritance are there in java?
+2020-06-15 12:12:48 INFO  bridgepattern.QuestionFormat :13 - %n---------------------------------------------------------------------------------
+2020-06-15 12:12:48 INFO  bridgepattern.QuestionFormat :14 - *******Bridge Pattern*******
+2020-06-15 12:15:11 INFO  iterator.IteratorPattern :12 - ------------------------------------------------------------------
+2020-06-15 12:15:11 INFO  iterator.IteratorPattern :13 - *******************Iterator Pattern****************
+2020-06-15 12:15:11 DEBUG iterator.IteratorPattern :16 - Name : Satya Dama,Kruthi agstya,Annanya Sri,Aadhya Sri
+2020-06-15 12:15:11 INFO  iterator.IteratorPattern :17 - ------------------------------------------------------------------
+2020-06-15 12:15:44 INFO  pattern.FacadePattern :10 - ------------------------------------------------------------------
+2020-06-15 12:15:44 INFO  pattern.FacadePattern :11 - *******************Facade Pattern****************
+2020-06-15 12:15:44 INFO  pattern.FacadePattern :12 - Phones Available Are:
+2020-06-15 12:15:44 INFO  pattern.FacadePattern :13 - 1. IPHONE.
+2020-06-15 12:15:44 INFO  pattern.FacadePattern :14 - 2. OOPO
+2020-06-15 12:15:44 INFO  pattern.FacadePattern :15 - 3. REALME.
+2020-06-15 12:15:44 INFO  pattern.FacadePattern :16 - Enter your choice: 
+2020-06-15 12:15:53 INFO  pattern.Iphone :9 -  Iphone 6 
+2020-06-15 12:15:53 INFO  pattern.Iphone :12 -  Rs 65000.00 
+2020-06-15 12:15:53 INFO  pattern.FacadePattern :31 - --------------------------------------------------------
+2020-06-15 12:16:12 INFO  proxy.ProxyPatternClient :10 - ------------------------------------------------------------------------
+2020-06-15 12:16:12 INFO  proxy.ProxyPatternClient :11 -  **************************Proxy Pattern***********************
+2020-06-15 12:16:12 INFO  proxy.RealInternetAccess :13 - Internet Access granted for employee: Satya Dama
+2020-06-15 12:16:12 INFO  proxy.RealInternetAccess :14 - ------------------------------------------------------------------------
+2020-06-15 12:16:12 INFO  proxy.RealInternetAccess :15 - 
+2020-06-15 12:16:35 INFO  proxy.ProxyPatternClient :14 - -----------------------------------------------------------
+2020-06-15 12:16:35 INFO  proxy.ProxyPatternClient :15 - ********************Strategy Pattern********************
+2020-06-15 12:16:35 INFO  proxy.ProxyPatternClient :16 - Enter the first value: 
+2020-06-15 12:16:40 DEBUG proxy.ProxyPatternClient :18 - The First Number is: 10.0
+2020-06-15 12:16:40 INFO  proxy.ProxyPatternClient :19 - Enter the second value: 
+2020-06-15 12:16:44 DEBUG proxy.ProxyPatternClient :21 - The First Number is: 10.0
+2020-06-15 12:16:44 DEBUG proxy.ProxyPatternClient :23 - Addition = 30.0
+2020-06-15 12:16:44 DEBUG proxy.ProxyPatternClient :25 - Subtraction = -10.0
+2020-06-15 12:16:44 INFO  proxy.ProxyPatternClient :26 - ----------------------------------------------------------
+2020-06-15 12:16:44 INFO  proxy.ProxyPatternClient :27 - 
